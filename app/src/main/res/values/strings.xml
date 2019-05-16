@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UriRedirect</string>
+    <string name="filter_view_http_sample">view_http_sample</string>
+</resources>
